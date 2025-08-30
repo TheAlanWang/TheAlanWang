@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**TheAlanWang/TheAlanWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Hao (Alan) Wang**, a **Computer Science Align (MS)** student at **Northeastern University (Silicon Valley)**.  
+Previously, I graduated from the **University of Sydney** (Finance & Big Data) and worked ~5 years in consulting and tech project management (Deloitte, Cubewise, Shanghai Securities).  
+I’m passionate about **full-stack engineering**, **backend systems**, and **AI applications**.
 
-Here are some ideas to get you started:
+- 🚀 Currently building: **DocuBot – AI Document Assistant** (FastAPI + Next.js)
+- 🎯 Looking for: **Software Engineering Internship**
+- 💼 GitHub: https://github.com/TheAlanWang
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚒️ Tech Stack
+
+`Python` · `FastAPI` · `Pydantic` · `SQLAlchemy` · `PostgreSQL` · `JWT`  
+`Java` · `Spring Boot` · `MySQL` · `Redis` · `RabbitMQ` · `Swagger`  
+`JavaScript/TypeScript` · `React` · `Next.js` · `Tailwind CSS`  
+`Docker` · `AWS` · `Vercel/Render` · `Git/GitHub Actions`
