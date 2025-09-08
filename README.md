@@ -7,7 +7,6 @@ I’m passionate about **full-stack engineering**, **backend systems**, and **AI
 - 🚀 Currently building: **DocuBot – AI Document Assistant** (FastAPI + Next.js)
 - 🎯 Looking for: **Software Engineering Internship**
 - 💼 GitHub: https://github.com/TheAlanWang
-- 😄 Pronouns: he/him
 
 ---
 
