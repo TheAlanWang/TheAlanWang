@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FB9F7&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
-## Hi there
 
 I’m **Hao (Alan) Wang**, a **Computer Science Align (MS)** student at **Northeastern University (Silicon Valley)**.  
 Previously, I graduated from the **University of Sydney** (Finance & Big Data) and worked ~5 years in consulting and tech project management (Deloitte, Cubewise, Shanghai Securities).  
