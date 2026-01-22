@@ -4,7 +4,7 @@ I’m **Hao (Alan) Wang**, a **Computer Science Align (MS)** student at **Northe
 Previously, I graduated from the **University of Sydney** (Finance & Big Data) and worked ~5 years in consulting and tech project management (Deloitte, Cubewise, Shanghai Securities).  
 I’m passionate about **full-stack engineering**, **backend systems**, and **AI applications**.
 
-- 🚀 Currently building: **DocuBot – AI Document Assistant** (FastAPI + Next.js)
+- 🚀 Currently building: **doc-assistant** (FastAPI + Next.js)
 - 🎯 Looking for: **Software Engineering Internship**
 - 💼 GitHub: https://github.com/TheAlanWang
 
