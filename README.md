@@ -6,6 +6,7 @@ I’m passionate about **full-stack engineering**, **backend systems**, and **AI
 
 - 🚀 Currently building: **doc-assistant** (FastAPI + Next.js)
 - 🎯 Looking for: **Software Engineering Internship**
+- 🌐 Website: https://thealanwang.github.io/
 - 💼 GitHub: https://github.com/TheAlanWang
 - 🧠 Brain: https://thealanwang.github.io/alan-brain-site/
 ---
