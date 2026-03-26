@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FB9F7&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I’m **Hao (Alan) Wang**, a **Computer Science Align (MS)** student at **Northeastern University (Silicon Valley)**.  
+I’m **Hao (Alan) Wang**, a **Computer Science(MS)** student at **Northeastern University (Silicon Valley)**.  
 Previously, I graduated from the **University of Sydney** (Finance & Big Data) and worked ~5 years in consulting and tech project management (Deloitte, Cubewise, Shanghai Securities).  
 I’m passionate about **full-stack engineering**, **backend systems**, and **AI applications**.
 
-- 🚀 Currently building: **doc-assistant** (FastAPI + Next.js)
+- 🚀 Currently building: **Atlas** — an AI-powered learning platform with RAG 
 - 🎯 Looking for: **Software Engineering Internship**
 - 🌐 Website: https://thealanwang.github.io/
 - 💼 GitHub: https://github.com/TheAlanWang
