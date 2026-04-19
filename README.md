@@ -6,7 +6,7 @@ I’m passionate about **full-stack engineering**, **backend systems**, and **AI
 
 - 🚀 Currently building: **Atlas** — an AI-powered learning platform with RAG 
 - 🎯 Looking for: **Software Engineering Internship**
-- 🌐 Website: https://thealanwang.github.io/
+- 🌐 Website: [https://thealanwang.github.io/](https://thealanwang.github.io/about.html)
 - 💼 GitHub: https://github.com/TheAlanWang
 - 🧠 Brain: https://thealanwang.github.io/alan-brain-site/
 ---
