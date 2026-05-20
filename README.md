@@ -4,7 +4,6 @@ I’m **Hao (Alan) Wang**, a **Computer Science(MS)** student at **Northeastern 
 Previously, I graduated from the **University of Sydney** (Finance & Big Data) and worked ~5 years in consulting and tech project management (Deloitte, Cubewise, Shanghai Securities).  
 I’m passionate about **full-stack engineering**, **backend systems**, and **AI applications**.
 
-- 🚀 Currently building: **Atlas** — an AI-powered learning platform with RAG 
 - 🎯 Looking for: **Software Engineering Internship**
 - 🌐 Website: [https://thealanwang.github.io/](https://thealanwang.github.io/about.html)
 - 💼 GitHub: https://github.com/TheAlanWang
