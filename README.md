@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FB9F7&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-# Hi, I'm Hao (Alan) Wang 👋
+# Hi, I'm Hao (Alan) Wang
 
 I'm a **Computer Science MS student** at **Northeastern University — Silicon Valley**, focused on **backend systems, full-stack engineering, and applied AI**.
 
